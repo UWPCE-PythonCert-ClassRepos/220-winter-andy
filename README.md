@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 220-Advanced-Template
 ## Not for class use - Clone me!
 
@@ -8,4 +7,3 @@ PLEASE do not use this for your students' assignments.
 =======
 # 220-winter-andy
 Class repo for py220 winter 2020
->>>>>>> f89be464edc66d1f14b60a226172f76faa23852b
